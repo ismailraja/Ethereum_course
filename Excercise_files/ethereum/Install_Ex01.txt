@@ -1,0 +1,15 @@
+NPM to install the Ethereumjs-testrpc:
+npm install -g ethereumjs-testrpc
+
+run the following command to start it:
+testrpc
+
+This provides you with 10 different accounts and private keys, along with a local server at localhost:8545.
+
+
+
+mkdir femi_cont
+cd femi_cont
+
+npm init
+npm install ethereum/web3.js --save

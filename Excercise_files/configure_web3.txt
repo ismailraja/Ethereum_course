@@ -1,0 +1,8 @@
+Switch over to the Remix IDE, click on the Run tab, and then change the Environment dropdown from Javascript VM to Web3 Provider.
+
+Hit "OK" and then specify the testrpc localhost address (by default, it's http://localhost:8545)
+
+This means that instead of deploying and testing in the Javascript VM, we're now using the TestRPC client on your computer.
+
+
+0x797e2d1f4056b16e680a24d066188a9fef15ee33
